@@ -81,7 +81,7 @@ This study partially intended to develop an understanding of the language used b
 
 
 
-# [Housing Price Modeling](https://github.com/DSchlant/ames_housing))
+# [Housing Price Modeling](https://github.com/DSchlant/ames_housing)
 
 ### Data Science Problem:
 
