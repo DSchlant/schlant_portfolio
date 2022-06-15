@@ -1,4 +1,4 @@
-[**Subreddit NPL Classification Modeling**]([https://www.example.com](https://github.com/DSchlant/nlp_classification_reddit))
+[Subreddit NPL Classification Modeling]([https://www.example.com](https://github.com/DSchlant/nlp_classification_reddit))
 
 Many feel that humanity is at a major inflection point. Technological progress is rapid: cars are driving themselves and running on electricity, mundane tasks are being automated, and AI is contributing to providing solutions across many fields of study. There is much to be excited about. But - how can you be? Every week, updates on the state of the climate become more dire, the geopolitical landscape becomes more fraught, and the social fabric that binds us all together seems to fray. Where do you feel that civilization is headed? Where might your customers? Or the members of your next target market?
 
@@ -81,7 +81,7 @@ This study partially intended to develop an understanding of the language used b
 
 
 
-[**Subreddit NPL Classification Modeling**]([https://www.example.com](https://github.com/DSchlant/nlp_classification_reddit))
+[Subreddit NPL Classification Modeling]([https://www.example.com](https://github.com/DSchlant/nlp_classification_reddit))
 
 ### Data Science Problem:
 
