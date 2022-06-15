@@ -81,7 +81,7 @@ This study partially intended to develop an understanding of the language used b
 
 
 
-# [Subreddit NPL Classification Modeling](https://github.com/DSchlant/nlp_classification_reddit))
+# [Housing Price Modeling](https://github.com/DSchlant/ames_housing))
 
 ### Data Science Problem:
 
